@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Home/Home.unity
+    guid: 7d5dec933b71240fcaf1a1abc6346fac
+  - enabled: 1
+    path: Assets/AceOfShadows/AceOfShadows.unity
+    guid: 687fe82cdfbef45979a9a0042708457d
+  - enabled: 1
+    path: Assets/MagicWords/MagicWords.unity
+    guid: ecbc4f1823f784ee89c0391104477c6b
+  - enabled: 1
+    path: Assets/PhoenixFlame/PhoenixFlame.unity
+    guid: f4391f639abfd4a37a9a93559374693f
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
