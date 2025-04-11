@@ -1,8 +1,7 @@
 using System;
-using System.Linq;
-using NUnit.Framework;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Assertions;
 
 namespace SoftgamesAssignment.MagicWords
 {
