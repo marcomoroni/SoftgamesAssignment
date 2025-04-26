@@ -6,7 +6,7 @@ I didn't manage to complete the Magic Words exercise. The issue that took me a h
 
 The code for this exercise is therefore still work-in-progess.
 
-Had I had not found this issue. I would have added also:
+Had I had not found this issue, I would have also done the following:
 
 - support for invalid web requests (as some images do not exist)
 - support for fallback images for avatars and emojis
